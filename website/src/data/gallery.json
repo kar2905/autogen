@@ -219,5 +219,12 @@
     "description": "Automatically creating linear tasks and assigning them to the right person, project, and team from GitHub commits using AutoGen Agents.",
     "image": "composio-autogen.png",
     "tags": ["tools"]
+  },
+  {
+    "title": "Albus - Enterprise Search and Productivity",
+    "link": "https://www.springworks.in/albus/",
+    "description": "Connect your work apps. Ask questions and get instant answers.",
+    "image": "albus.png",
+    "tags": ["app"]
   }
 ]
